@@ -1,0 +1,1 @@
+wdc.cmd -OutputRoot output
